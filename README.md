@@ -1,8 +1,8 @@
 # Trabalho-Menu-Interativo-
 ## Trabalho para aula de Algoritmo e Programação - 1 Semestre. 
 
-import javax.swing.*;
-void main() {
+    import javax.swing.*;
+    void main() {
     String menu = "    ======================\n"
             + "               Menu Principal: \n"
             + "    ======================\n"
